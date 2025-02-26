@@ -1,4 +1,4 @@
-<img width="959" alt="portfolio" src="">
+<img width="959" alt="portfolio" src="https://github.com/Thevaibhavgarg/Modern-Portfolio/blob/main/src/images/Website_image.png">
 
 
 ### Live - 
