@@ -1,4 +1,4 @@
-<img width="959" alt="portfolio" src="">
+<img width="959" alt="portfolio" src="https://github.com/Thevaibhavgarg/Modern-Portfolio/blob/main/src/images/Website_image.png">
 
 
 ### Live - 
@@ -40,7 +40,7 @@
 
 Quickes way to deploy this repo - 
 
-[![Deploy To Vercel](https://vercel.com/login)]
+[Deploy To Vercel](https://vercel.com/login)
 
 
 ### How To Contribute - 
@@ -62,7 +62,7 @@ If you liked this portfolio template, don't forget to give it a ⭐.
 ## Supporting
 Many hours of hard work have gone into this project. Your support will be very appreciated!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)]
+!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)
 
 
 
